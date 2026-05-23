@@ -16,5 +16,8 @@
     "url": "https://github.com/KCauet/API/issues"
   },
   "homepage": "https://github.com/KCauet/API#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
